@@ -1,5 +1,5 @@
 {
-  "version": "2.0.3",
-  "sha256": "d21a3b512bc516a9e043af51a4fdb1ab5a7bb313ce9fd698359086ff14346da2",
-  "notas": "El texto sobre el video arranca en tamaño 2.5."
+  "version": "2.0.5",
+  "sha256": "e04f557778208bc43bf4da4deb652c8bea433a562b89221e0ea6dd3ffc654991",
+  "notas": "La dependencia de ejemplo ahora es OFIJU Santo Tomé."
 }
