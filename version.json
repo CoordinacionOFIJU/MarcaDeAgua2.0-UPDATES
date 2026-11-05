@@ -1,6 +1,6 @@
 {
-  "version": "2.0.6",
-  "url": "https://raw.githubusercontent.com/CoordinacionOFIJU/MarcaDeAgua2.0-UPDATES/main/app-2.0.6.zip",
-  "sha256": "de1a498fec557670c0b0ac28e86393f4985f9ae86b880772decd45e294bbd544",
-  "notas": "Hacé clic en el número de versión (abajo del zoom) para buscar actualizaciones en el momento."
+  "version": "2.1.0",
+  "url": "https://raw.githubusercontent.com/CoordinacionOFIJU/MarcaDeAgua2.0-UPDATES/main/app-2.1.0.zip",
+  "sha256": "68ffa3c5a0d60f38f15eba44fdc927b48b7fbfa24ead91a54277d7f894a29c11",
+  "notas": "Las zonas de censura ahora pueden ser rectangulares o redondas (elegilo en la ficha de cada zona, en Forma)."
 }
