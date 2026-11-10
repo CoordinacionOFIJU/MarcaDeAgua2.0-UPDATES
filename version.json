@@ -1,6 +1,6 @@
 {
-  "version": "2.1.0",
-  "url": "https://raw.githubusercontent.com/CoordinacionOFIJU/MarcaDeAgua2.0-UPDATES/main/app-2.1.0.zip",
-  "sha256": "68ffa3c5a0d60f38f15eba44fdc927b48b7fbfa24ead91a54277d7f894a29c11",
-  "notas": "Las zonas de censura ahora pueden ser rectangulares o redondas (elegilo en la ficha de cada zona, en Forma)."
+  "version": "2.1.1",
+  "url": "https://raw.githubusercontent.com/CoordinacionOFIJU/MarcaDeAgua2.0-UPDATES/main/app-2.1.1.zip",
+  "sha256": "9df05e2fe7345e6f93045a10e3fb0ba9d7b6036394da393a240c8f87f954debd",
+  "notas": "Si un video se traba al marcar, el programa lo detecta solo y lo termina por un método alternativo; si no puede, avisa en qué minuto."
 }
